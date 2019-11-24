@@ -1,4 +1,6 @@
-# Capstone Project: Biodiversity in National Parks
+# Capstone Project: [Biodiversity in National Parks](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Data_with_Python/biodiversity.ipynb)
+
+[Slide Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Data_with_Python/Biodiversity.pdf)
 
 Analyze data about endangered species.
 
@@ -19,7 +21,9 @@ Your presentation should include the following:
 - A section describing the sample size determination that you did for the foot and mouth disease study
 - All of the graphs that you created in the notebook
 
-# Capstone Project: MuscleHub A/B Test
+# Capstone Project: [MuscleHub A/B Test](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Data_with_Python/musclehub.ipynb)
+
+[Slide Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Data_with_Python/MuscleHub%20AB%20Test.pdf)
 
 
 You’ve been hired to help MuscleHub, a fancy gym, run an A/B test!
