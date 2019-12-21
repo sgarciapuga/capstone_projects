@@ -11,3 +11,7 @@ Codecademy Analyze Financial Data with Python:
 Codecademy Analyse Data with Python:
 - [Biodiversity in National Parks](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Data_with_Python/biodiversity.ipynb) - [Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Data_with_Python/Biodiversity.pdf)
 - [MuscleHub A/B Test](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Data_with_Python/musclehub.ipynb) - [Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Data_with_Python/MuscleHub%20AB%20Test.pdf)
+
+Codecademy Visualize Data with Python:
+- [Netflix](https://github.com/sgarciapuga/capstone_projects/blob/master/Visualize_Data_with_Python/netflix_visualizations.ipynb) - [Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/Visualize_Data_with_Python/Netflix.pdf)
+- [Life Expectancy and GDP Data](https://github.com/sgarciapuga/capstone_projects/blob/master/Visualize_Data_with_Python/life_expectancy_gdp.ipynb) - [Presentation](https://www.linkedin.com/pulse/life-expectancy-gdp-sergio-garcia-puga)

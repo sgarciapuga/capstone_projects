@@ -1,6 +1,6 @@
-# Capstone Project: [Netflix Datal Parks](https://github.com/sgarciapuga/)
+# Capstone Project: [Netflix](https://github.com/sgarciapuga/capstone_projects/blob/master/Visualize_Data_with_Python/netflix_visualizations.ipynb)
 
-Slide Presentation
+[Slide Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/Visualize_Data_with_Python/Netflix.pdf)
 
 You’ve been hired as a data visualization developer at Yahoo Finance! Your job is to help financial analysts by creating some of the visualizations for a stock profile of Netflix.
 
@@ -22,9 +22,9 @@ Create a slide deck using Google Drive , Microsoft Powerpoint, or some other pre
 - A visualization of Netflix stock against the Dow Jones stock (to get a sense of the market) in 2017
 If you like, you can also record a video of yourself giving the presentation and upload it to YouTube.
 
-# Capstone Project: [Life Expectancy and GDP Data](https://github.com/sgarciapuga/)
+# Capstone Project: [Life Expectancy and GDP Data](https://github.com/sgarciapuga/capstone_projects/blob/master/Visualize_Data_with_Python/life_expectancy_gdp.ipynb)
 
-Slide Presentation
+[Linkedin articule](https://www.linkedin.com/pulse/life-expectancy-gdp-sergio-garcia-puga)
 
 For this project, you will act as a data researcher for the World Health Organization. You will be helping them analyze data on GDP and life expectancy from the World Health Organization and the World Bank to try and identify the relationship between the GDP and life expectancy of six countries.
 
