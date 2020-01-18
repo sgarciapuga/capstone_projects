@@ -17,9 +17,9 @@ In this project, you will analyze different Warby Parker’s marketing funnels in 
 - home_try_on
 - purchase
 
-# Project: [User Churn](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Warby_Parker_Project.ipynb)
+# Project: [User Churn](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Calculating_Churn_Rates.ipynb)
 
-[Slide Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Warby_Parker_Project.pdf)
+[Slide Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Codeflix_Churn_Rate.pdf)
 
 
 Codeflix, a streaming video startup, is interested in measuring their user churn rate. In this project, you’ll be helping them answer these questions about their churn:
