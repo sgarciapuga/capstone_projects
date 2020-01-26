@@ -34,9 +34,9 @@ What segments of users exist?
 
 Which segment of users should the company focus on expanding?
 
-# Project: [Cool Tshirts: Marketing Attribution](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Calculating_Churn_Rates.ipynb)
+# Project: [Cool Tshirts: Marketing Attribution](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Marketing_Attribution.ipynb)
 
-[Slide Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Codeflix_Churn_Rate.pdf)
+[Slide Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Cooltshirts_marketing.pdf)
 
 CoolTShirts, an innovative apparel shop, is running a bunch of marketing campaigns. In this project, you’ll be helping them answer these questions about their campaigns:
 

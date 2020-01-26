@@ -20,3 +20,4 @@ Codecademy Analyse Data with SQL:
 
 - [Warby Parker Project](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Warby_Parker_Project.ipynb)- [Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Warby_Parker_Project.pdf)
 - [User Churn](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Calculating_Churn_Rates.ipynb) - [Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Codeflix_Churn_Rate.pdf)
+- [Marketing Attribution](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Marketing_Attribution.ipynb) - [Presentation](https://github.com/sgarciapuga/capstone_projects/blob/master/SQL/Cooltshirts_marketing.pdf)
